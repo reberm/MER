@@ -1,0 +1,1 @@
+an updated code file (fix for a PWM issue in the current Motor Control Library).  This file needs to be placed in \ SPC564L_RLA_Motor_Control_Demo_Application\components\spc56xx_motor_control_component\lib\MC_Library\CPWMC\src. (overwrite existing file)  This will fix an overflow issue in the PWM software at very high duty cycles.
