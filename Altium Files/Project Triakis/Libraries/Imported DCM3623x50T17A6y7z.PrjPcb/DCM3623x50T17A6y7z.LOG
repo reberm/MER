@@ -1,0 +1,112 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\BAT20JFILM\BAT20JFILM.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\BAT20JFILM\BAT20JFILM.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\DCM3623x5017A6y7z\DCM3623x50T17A6y7z.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\DCM3623x5017A6y7z\DCM3623x50T17A6y7z.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\FF450R12ME4\FF450R12ME4.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\FF450R12ME4\FF450R12ME4.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\PC_TEST_POINT_MINI_SMD_5019\PC_TEST_POINT_MINI_SMD_5019.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\PC_TEST_POINT_MINI_SMD_5019\PC_TEST_POINT_MINI_SMD_5019.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\SCTW100N65G2AG\SCTW100N65G2AG.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\SCTW100N65G2AG\SCTW100N65G2AG.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\SMCJ13CA\SMCJ13CA.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\SMCJ13CA\SMCJ13CA.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\STGAP1AS\STGAP1AS.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\STGAP1AS\STGAP1AS.lbr
+    Load settings
+    Load layers 65
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\STPS2H100AY\STPS2H100AY.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\STPS2H100AY\STPS2H100AY.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\STTH112A\STTH112A.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\STTH112A\STTH112A.lbr
+    Load settings
+    Load layers 62
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\sw46\Documents\Eagle Libraries\STY130NF20D\STY130NF20D.lbr
+    Analyzing data of C:\Users\sw46\Documents\Eagle Libraries\STY130NF20D\STY130NF20D.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
