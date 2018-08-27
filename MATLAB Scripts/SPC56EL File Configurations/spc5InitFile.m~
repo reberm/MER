@@ -1,0 +1,50 @@
+function [spc5Settings] = spc5InitFile
+%SPC5INITFILE Summary of this function goes here
+
+
+% Header revision
+spc5Settings.HeaderInfo.uRev = 1;
+spc5Settings.HeaderInfo.uRev = 1;
+spc5Settings.HeaderInfo.uMajor = 0;
+spc5Settings.HeaderInfo.uMinor = 0;
+
+% General Settings
+
+% Communication Type with SPC56EL micro
+spc5Settings.Peripheral.szType = 'RS232 Serial';
+spc5Settings.Peripheral.ubaudRate = 9600;
+spc5Settings.Peripheral.uParity = 'None';
+spc5Settings.Peripheral.uStopBits = 1;
+
+% Speed PID Settings
+spc5Settings.SpeedPID.Kp = 20;
+spc5Settings.SpeedPID.Ki = 5;
+spc5Settings.SpeedPID.Kd = 0;
+
+% Torque PID Settings
+spc5Settings.TorquePID.Kp = 20;
+spc5Settings.TorquePID.Ki = 5;
+spc5Settings.TorquePID.Kd = 0;
+
+% Flux PID Settings
+spc5Settings.FluxPID.Kp = 20;
+spc5Settings.FluxPID.Ki = 5;
+spc5Settings.FluxPID.Kd = 0;
+
+% Flux PID Settings
+spc5Settings.FluxWeakPID.Kp = 0;
+spc5Settings.FluxWeakPID.Ki = 0;
+spc5Settings.FluxWeakPID.Kd = 0;
+
+% PLL PID Settings
+spc5Settings.PllPID.Kp = 0;
+spc5Settings.PllPID.Ki = 0;
+spc5Settings.PllPID.Kd = 0;
+
+
+
+
+
+
+end
+
